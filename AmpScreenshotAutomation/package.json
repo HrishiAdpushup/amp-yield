@@ -1,0 +1,13 @@
+{
+  "name": "amp-screenshot-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "exceljs": "^4.3.0",
+    "node-html-parser": "^5.1.0",
+    "puppeteer": "^10.2.0",
+    "treekill": "^1.0.0"
+  }
+}
